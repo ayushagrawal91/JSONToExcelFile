@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Dien",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 800000
+    },
+    {
+      "id": 2,
+      "name": "Jane monger",
+      "position": "Data Scientist",
+      "department": "Data Science",
+      "salary": 900000
+    },
+    {
+      "id": 3,
+      "name": "Lionel messi ",
+      "position": "UX Designer",
+      "department": "Design",
+      "salary": 750000
+    },
+    {
+      "id": 4,
+      "name": "Alice Puth",
+      "position": "Product Manager",
+      "department": "Product Management",
+      "salary": 1000000
+    },
+    {
+      "id": 5,
+      "name": "Charlie Williams",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 700000
+    }
+  ]
+}
